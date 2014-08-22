@@ -1,3 +1,19 @@
+###
+
+dirtyForm.js - http://github.com/nneufeld/dirtyForm.js
+Copyright (c) 2014 Nick Neufeld
+Released under the MIT License
+
+Basic Usage:
+
+$("#my_form").dirtyForm()
+
+Whenever any field on the form(input, select, or textarea) is changed, 
+the changed field, as well as the form will be given a 'dirty' class
+
+###
+
+
 # Built using https://github.com/jquery-boilerplate/jquery-boilerplate
 
 # Note that when compiling with coffeescript, the plugin is wrapped in another
